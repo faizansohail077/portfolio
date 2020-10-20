@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Muhammad Faizan",
+    "occupation": "ReactJS Developer ",
+    "description": "Full Stack React Developer using Firebase",
+    "image": "faizan.png",
+    "bio": "My name is Faizan, I'm a  ReactJS and Firebase  Developer. Currently I'm learning and with that i am building clones using ReactJs and firebase",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "faizansohail077@gmail.com",
+    "phone": "+92 347 247 9763",
+    "address": {
+      "street": "fb area",
+      "city": "Karachi",
+      "state": "Asia",
+      "country":"Pakistan"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/faizansohail077",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/muhammad-faizan-552816183/",
+        "className": "fa fa-linkedin"
+      },
+      
+      {
+        "name": "github",
+        "url": "https://github.com/faizansohail077",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Govt City College",
+        "degree": "High School Graduate",
+        "graduated": "August 2016",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "NA",
+        "title": "NA",
+        "years": "NA",
+        "description": "NA"
+      },
+      {
+        "company": "NA",
+        "title": "NA",
+        "years": "NA",
+        "description": "NA"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Firebase",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      }
+      
+      
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": " Amazon fronent clone",
+        "category": "Amazon fronent and firebase authetication clone",
+        "image": "amazon.jpeg",
+        "url": "https://clone-36659.web.app/"
+      },
+      {
+        "title": "Twitter frontend Clone",
+        "category": "Twitter React Js and firebase frontend and database",
+        "image": "twitter.jpeg",
+        "url": "https://twitter-clone-9baa9.web.app/"
+      }
+     
+     
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Muhammad Faizan must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
